@@ -3,7 +3,9 @@
 
 1) https://forms.gle/qiSqy9VvfzDWVANM8
 어플 설치 전, 위 링크에서 로그인할 네이버 아이디를 먼저 작성해 주세요.
-2) 권한 설정(이동 권한, GPS 권한, 미디어 )을 완료한 뒤 네이버 로그인을 진행해 주세요.
-3) 첨부해 둔 pdf 파일을 따라 테스트를 진행해 주세요.
+2) https://drive.google.com/file/d/11_4tv-kXkTWQ-wpSEE11frDAyQdOX3uO/view?usp=share_link\
+위 링크에서 TeamD.zip 파일을 받아 휴대폰에서 압축을 풀고 apk 파일을 다운받아 주세요.
+3) 권한 설정(이동 권한, GPS 권한, 미디어 권한 부여)을 완료한 뒤 네이버 로그인을 진행해 주세요.
+4) 첨부해 둔 pdf 파일을 따라 테스트를 진행해 주세요.
 
 감사합니다.
