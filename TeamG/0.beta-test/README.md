@@ -111,6 +111,6 @@
   오류 확인 후 에러 메세지 및 오류가 난 상황을 알려주시면 감사하겠습니다!
 ```
 
-<img src="./img/error.png" alt="error" style="width:200px;"/>
+<img src="./img/error.png" alt="error" style="width:400px;"/>
 
 </aside>
