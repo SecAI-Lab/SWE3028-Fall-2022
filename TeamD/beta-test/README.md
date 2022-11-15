@@ -3,8 +3,8 @@
 
 1) https://forms.gle/qiSqy9VvfzDWVANM8
 어플 설치 전, 위 링크에서 로그인할 네이버 아이디를 먼저 작성해 주세요.
-2) https://drive.google.com/file/d/1CCx_mnFsJKLMN3XqdL_vfFuI06M2slym/view?usp=sharing
-위 링크에서 apk 파일을 받아 휴대폰에 설치해 주세요.
+2) https://drive.google.com/file/d/1YNnz16N5GRqzPg57hIUr6GRst7-3P4VD/view?usp=sharing
+위 링크에서 zip파일을 받은 뒤, 휴대폰에서 압축을 풀고 앱을 설치해 주세요.
 3) 권한 설정(이동 권한, GPS 권한, 미디어 권한 부여)을 완료한 뒤 네이버 로그인을 진행해 주세요.
 4) 테스트 진행 방법.pdf 파일을 따라 테스트를 진행해 주세요. (pdf에 기재된 기능 외에도 어플을 다방면으로 조작해 보시고 피드백 남겨주시면 감사하겠습니다.)
 5) 여행 게시판은 구현이 미완성된 상태이고, 클릭했을 때 흰 화면이 뜨는 창은 구현이 되지 않은 부분입니다.
