@@ -60,8 +60,6 @@ def get_model(args):
 
     return model
 
-# 모델 저장할때, nn.module로 한번 감싸고, dataparra을 썼더니, 모델이름이 드럽네
-
 if __name__ == '__main__':
     import warnings
     warnings.filterwarnings("ignore", category=UserWarning)
